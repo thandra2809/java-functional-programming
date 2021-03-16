@@ -1,6 +1,5 @@
-package org.functionalrunner;
+package org.functionalrunner1;
 
-import java.util.Arrays;
 import java.util.List;
 
 public class FP01Functional {
@@ -24,9 +23,7 @@ public class FP01Functional {
     }
 
     private static void printAllNumbersInListFunctional(List<Integer> numbers) {
-
         numbers.stream().forEach(System.out::println);
-
     }
 
 

@@ -1,4 +1,4 @@
-package org.functionalrunner;
+package org.functionalrunner1;
 
 
 public class FunctionalRunner {
